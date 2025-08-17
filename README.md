@@ -26,8 +26,8 @@ Inspired by Launchpad, iPadOS, and GNOME 3, Canaveral focuses on fast keyboard s
 The easiest way to try Canaveral is to download a pre-compiled app bundle from the
 [Releases page](../../releases).
 
-1. Download the latest `.zip` file.
-2. Unzip it and drag **Canaveral.app** into your Applications folder.
+1. Download the latest `.zip` or `.dmg` file.
+2. Unzip or mount it and drag **Canaveral.app** into your Applications folder.
 3. Launch it from Spotlight, Finder, or a hotkey of your choice.
 
 Canaveral can also be built from source (see [Building](#building) below).
